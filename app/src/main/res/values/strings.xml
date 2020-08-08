@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">wallpaper</string>
+    <string-array name="subreddits">
+        <item>EarthPorn</item>
+        <item>Wallpaper</item>
+    </string-array>
+</resources>
